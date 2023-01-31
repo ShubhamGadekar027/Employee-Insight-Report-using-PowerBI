@@ -4,3 +4,4 @@ In this PowerBI project, the data related to employees of a company is analyzed.
 
 #### Data Visualization:
 
+<p align="center"><img src='https://i.postimg.cc/52VSyWvC/EA.png'><p align="center">
